@@ -1,6 +1,6 @@
 # Guessing Number Game
 
-Welcome to the **Guessing Number Game**! This is a simple yet engaging number guessing game built using HTML, CSS, and JavaScript. Originally part of the [**The Complete JavaScript Course 2025: From Zero to Expert!**](https://www.udemy.com/course/the-complete-javascript-course/), this project has been enhanced with additional features and improvements beyond the original tutorial.
+Welcome to the **Guessing Number Game**! This is a simple yet engaging number guessing game built using HTML, CSS, and JavaScript. Originally part of the [**The Complete JavaScript Course 2025: From Zero to Expert!**](https://www.udemy.com/course/the-complete-javascript-course/), this project has been enhanced with additional features and improvements beyond the original tutorial. Demo the project [**HERE**](https://dannyquintana.github.io/guessing-number-game/)
 
 ---
 
