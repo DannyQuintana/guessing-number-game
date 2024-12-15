@@ -71,7 +71,7 @@ Welcome to the **Guessing Number Game**! This is a simple yet engaging number gu
 
 ## To-Do List
 
-- [ ] Restrict number input to values between 1 and 20.
+- [ :ballot_box_with_check:] Restrict number input to values between 1 and 20.
 - [ ] Enhance win/lose notifications:
   - Change the background color dynamically.
   - Add additional UI elements for clearer feedback.

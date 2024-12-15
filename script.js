@@ -43,6 +43,10 @@ const resetGame = () => {
 document.querySelector('.check').addEventListener('click', function () {
   const guess = Number(document.querySelector('.guess').value);
 
+  if (guess < 1 || guess > 20) {
+    alert('Please enter a number between 1 and 20.');
+  }
+
   if (!guess) {
     displayMessage('No number!');
   } else if (guess === number) {
